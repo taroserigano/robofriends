@@ -2,8 +2,7 @@
 
 ## screenshot
 
-![](images/filename%20screenshot.png)
-
+![Image description](images/screenshot.png)
 ## How to run robofriends
 
 1. Clone the repo
