@@ -1,10 +1,11 @@
 # Robofriends
 ## How to run robofriends
-1.Clone the repo
-2.Go To Sample React App
-3.In Windows Use Windows PowerShell to go to Sample React App directory.
-4.Install npm using 'npm install'
-5.Run npm start after installation is complete
+
+1. Clone the repo
+2. Go To Sample React App
+3. In Windows Use Windows PowerShell to go to Sample React App directory.
+4. Install npm using 'npm install'
+5. Run npm start after installation is complete
 
 
 NOTE:Use cd :/dirname/"Sample React App" to ignore spaces in terminal.
