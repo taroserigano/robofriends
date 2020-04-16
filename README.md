@@ -2,7 +2,7 @@
 
 ## screenshot
 
-![](filename%20screenshot.png)
+![](images/filename%20screenshot.png)
 
 ## How to run robofriends
 
