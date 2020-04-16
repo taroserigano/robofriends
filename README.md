@@ -1,5 +1,5 @@
 # Robofriends
-How to run robofriends
+## How to run robofriends
 1.Clone the repo
 2.Go To Sample React App
 3.In Windows Use Windows PowerShell to go to Sample React App directory.
@@ -9,10 +9,12 @@ How to run robofriends
 
 NOTE:Use cd :/dirname/"Sample React App" to ignore spaces in terminal.
 
-Available Scripts
+## Available Scripts
 In the project directory, you can run:
 
+'''
 npm start
+'''
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
