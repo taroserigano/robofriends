@@ -6,8 +6,6 @@
 3. Run `npm start` after installation is complete
 
 
-NOTE:Use cd :/dirname/"Sample React App" to ignore spaces in terminal.
-
 ## Available Scripts
 In the project directory, you can run:
 
