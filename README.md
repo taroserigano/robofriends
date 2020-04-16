@@ -2,7 +2,7 @@
 ## How to run robofriends
 
 1. Clone the repo
-2. Install npm using 'npm install'
+2. Install npm using `npm install`
 3. Run `npm start` after installation is complete
 
 
